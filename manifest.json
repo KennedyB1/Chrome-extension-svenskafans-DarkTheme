@@ -16,7 +16,7 @@
                 "*://*.svenskafans.com/*"
             ],
             "css": [
-                "styles.css"
+                "/styling/styles.css"
             ]
         }
     ]
